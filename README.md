@@ -11,12 +11,15 @@ I. Data Managment
     4. Normalizing Data
     5. Sorting Data
     6. Computematrix realization
+    
 II. Testing Data Normality
     1. Loading data
     2. Shapiro-Wilk’s Method
+
 III. Histone enrichment in promoters and fragments
     1. Enrichment hypothesis test
     2. Wilcox Test
+
 IV. TFs Enriched
     1. Non redundant Jaspar collection
     2. Pattern matching
