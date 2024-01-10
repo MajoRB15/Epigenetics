@@ -5,6 +5,7 @@ In this report I present an analysis of one of the epigenetic marks found in the
 The analysis is in 3 formats, rmd, pdf and html, and includes:
 
 I. Data Managment
+
     1. Data Download
     
     2. Filtering promoters-fragments 
@@ -20,12 +21,17 @@ I. Data Managment
 II. Testing Data Normality
 
     1. Loading data
+    
     2. Shapiro-Wilk’s Method
 
 III. Histone enrichment in promoters and fragments
+
     1. Enrichment hypothesis test
+    
     2. Wilcox Test
 
 IV. TFs Enriched
+    
     1. Non redundant Jaspar collection
+    
     2. Pattern matching
