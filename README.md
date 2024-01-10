@@ -6,13 +6,19 @@ The analysis is in 3 formats, rmd, pdf and html, and includes:
 
 I. Data Managment
     1. Data Download
+    
     2. Filtering promoters-fragments 
+    
     3. Liftover
+    
     4. Normalizing Data
+    
     5. Sorting Data
+    
     6. Computematrix realization
     
 II. Testing Data Normality
+
     1. Loading data
     2. Shapiro-Wilk’s Method
 
